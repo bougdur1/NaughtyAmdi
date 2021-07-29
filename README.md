@@ -14,10 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/BlackAmda/NaughtyAmdi">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
-  
-  </a>
-  <a href="https://github.com/BlackAmda/NaughtyAmdi">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
